@@ -2,7 +2,10 @@
 
 Тестовий лендінг-проєкт для курсу AI in Marketing.
 
-**Жива версія:** _додасться після деплою на Vercel_
+**🌐 Жива версія:** https://ecoshop-mu.vercel.app
+
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed-Vercel-000?logo=vercel&logoColor=white)](https://ecoshop-mu.vercel.app)
+[![Status](https://img.shields.io/badge/status-live-success)](https://ecoshop-mu.vercel.app)
 
 ## Що це
 

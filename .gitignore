@@ -1,0 +1,33 @@
+# Operating system
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.cursor/
+
+# Node (на майбутнє, коли мігруємо на Next.js)
+node_modules/
+.next/
+out/
+dist/
+build/
+*.log
+
+# Environment & secrets (КРИТИЧНО — ніколи не коммітити)
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+# Vercel
+.vercel/
+
+# Supabase
+.supabase/
+supabase/.temp/
